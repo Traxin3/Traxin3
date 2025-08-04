@@ -27,9 +27,6 @@ Hey there! I'm **Sean**, a passionate developer and lifelong learner.
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/CTF%20Player-00FFD1?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/Traxin3/your-repo-name?style=flat-square"/>
-  <img src="https://img.shields.io/github/v/release/Traxin3/your-repo-name?style=flat-square"/>
-  <img src="https://img.shields.io/github/downloads/Traxin3/your-repo-name/total?style=flat-square"/>
 </p>
 
 ---
